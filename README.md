@@ -1,4 +1,4 @@
-##- 🔭 I’m currently working on strengthening my Core CS fundamentals
+- 🔭 I’m currently working on strengthening my Core CS fundamentals
 - 🌱 I’m currently learning Python
 - 💬 Ask me about C++, Java, and OOP concepts
 - 📫 How to reach me: ruhani102@gmail.com
